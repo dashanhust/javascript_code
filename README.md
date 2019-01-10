@@ -1,6 +1,6 @@
-# javascript_code
+ï»¿# javascript_code
 
-°üÀ¨¶à¸ö·ÖÖ§ÄÚÈİ£º
+åŒ…æ‹¬å¦‚ä¸‹åˆ†æ”¯ï¼š
 
 - storage
 - functions
